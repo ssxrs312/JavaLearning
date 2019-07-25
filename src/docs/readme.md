@@ -1,28 +1,27 @@
-
-
-- node1
-  -  Helloworld--第一个java程序helloworld
-- node2--面向对象
-  - Hero--设计一个英雄类，创建2个英雄对象。（类和对象1）
-  - Goods--设计一个商品类，创建3个商品对象。（类和对象2）
-  - Hero2--增加属性。（属性）
-  - Hero3--增加方法。（方法）
-- node3--变量
-  - Variable--基本变量类型
-  - Variable2--字面值
-  - Variable3--类型转换
-  - Variable4--命名规则
-  - Variable5--作用域
-  - Variable6--final
-  - Variable7--表达式
-  - Variable8--块
-- node4--操作符
-  - Operator1--算术操作符+Scanner
-  - Operator2--关系操作符
-  - Operator3--逻辑操作符
-  - Operator4--位操作符
-  - Operator5--赋值操作符
-  - Operator6--三元操作符
+- chapter1
+  - node1
+    -  Helloworld--第一个java程序helloworld
+  - node2--面向对象
+    - Hero--设计一个英雄类，创建2个英雄对象。（类和对象1）
+    - Goods--设计一个商品类，创建3个商品对象。（类和对象2）
+    - Hero2--增加属性。（属性）
+    - Hero3--增加方法。（方法）
+  - node3--变量
+    - Variable--基本变量类型
+    - Variable2--字面值
+    - Variable3--类型转换
+    - Variable4--命名规则
+    - Variable5--作用域
+    - Variable6--final
+    - Variable7--表达式
+    - Variable8--块
+  - node4--操作符
+    - Operator1--算术操作符+Scanner
+    - Operator2--关系操作符
+    - Operator3--逻辑操作符
+    - Operator4--位操作符
+    - Operator5--赋值操作符
+    - Operator6--三元操作符
 
 
 
