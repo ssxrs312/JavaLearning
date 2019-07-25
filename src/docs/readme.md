@@ -10,6 +10,13 @@
 - node3--变量
   - Variable--基本变量类型
   - Variable2--字面值
+  - Variable3--类型转换
+  - Variable4--命名规则
+  - Variable5--作用域
+  - Variable6--final
+  - Variable7--表达式
+  - Variable8--块
+- node4--操作符
   - 
 
 
