@@ -17,10 +17,15 @@
   - Variable7--表达式
   - Variable8--块
 - node4--操作符
-  - 
+  - Operator1--算术操作符+Scanner
+  - Operator2--关系操作符
+  - Operator3--逻辑操作符
+  - Operator4--位操作符
+  - Operator5--赋值操作符
+  - Operator6--三元操作符
 
 
-​	
+
 
 
 
