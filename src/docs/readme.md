@@ -32,6 +32,14 @@
     - Money--复利计算公式
     - ProcessControl7--结束外部循环
     - ProcessControl8--综合练习
+  - node6--数组
+    - Array1--创建数组
+    - Array2--初始化数组
+    - Array3--排序
+    - Array4--增强型for循环
+    - Array5--复制数组
+    - Array6--二维数组
+    - Array7--Arrays工具类
 
 
 
