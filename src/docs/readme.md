@@ -54,6 +54,12 @@
     - classO9--属性初始化
     - classO10--单例模式
     - classO11--枚举类型
+  - node8--接口与继承
+    - InterfaceE1--接口
+    - [对象转型](http://how2j.cn/p/2615)
+    - interfaceE3--重写
+    - interfaceE4--多态
+    - interfaceE5--隐藏
 
 
 
