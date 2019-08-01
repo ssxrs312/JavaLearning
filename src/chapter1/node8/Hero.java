@@ -10,4 +10,5 @@ public class Hero {
     public int moveSpeed; //移动速度
 
 
+
 }

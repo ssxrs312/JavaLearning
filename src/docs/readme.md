@@ -60,6 +60,14 @@
     - interfaceE3--重写
     - interfaceE4--多态
     - interfaceE5--隐藏
+    - interfaceE6--super
+    - interfaceE7--Object类
+    - interfaceE8--final
+    - interfaceE9--抽象类
+    - interfaceE10--内部类
+    - interfaceE11--默认方法
+    - interfaceE12--综合练习
+      - [接口与继承--综合练习](http://how2j.cn/p/2666)
 
 
 
