@@ -1,4 +1,5 @@
 - chapter1
+
   - node1
     -  Helloworld--第一个java程序helloworld
   - node2--面向对象
@@ -67,9 +68,17 @@
     - interfaceE10--内部类
     - interfaceE11--默认方法
     - interfaceE12--综合练习
-      - [接口与继承--综合练习](http://how2j.cn/p/2666)
+      - [接口与继承--综合练习--UML解释](http://how2j.cn/p/2666)
+  - node9--数字与字符串
+    - numberS1--装箱拆箱
+    - numberS2--字符串转换
+    - numberS3--数学方法
+    - numberS4--格式化输出
+    - numberS5--字符
+    - numberS6--字符串
+    - 
 
-
+  
 
 
 
