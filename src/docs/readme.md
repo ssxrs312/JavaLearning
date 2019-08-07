@@ -84,6 +84,16 @@
     - date2--日期格式化
     - date3--calendar
   
+- chapter2
+
+  - note1--异常处理
+    - exception1--什么是异常
+    - exception2--处理
+    - exception3--异常分类
+    - exception4--Throwable
+    - exception5--自定义异常
+    - exception6--综合练习
+
   
 
 
