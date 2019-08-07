@@ -76,8 +76,11 @@
     - numberS4--格式化输出
     - numberS5--字符
     - numberS6--字符串
+    - numberS7--操纵字符串
+  - numberS8--比较字符串
+    - numberS9--StringBuffer
     - 
-
+  
   
 
 
