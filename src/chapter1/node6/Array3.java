@@ -159,7 +159,7 @@ public class Array3 {
         //正排序，左边的数 和 右边的数 比大小
         for (int i = 0;i<x.length-1;i++){  //左边的数
             for (int j = i+1;j<x.length;j++){  //右边的数
-                if (x[j]<x[i]){   //右边的数 > 左边的数
+                if (x[j]<x[i]){   //右边的数 < 左边的数
                     int temp = x[j];
                     x[j] = x[i];
                     x[i] = temp;
