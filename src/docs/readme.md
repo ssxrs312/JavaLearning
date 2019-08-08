@@ -93,6 +93,14 @@
     - exception4--Throwable
     - exception5--自定义异常
     - exception6--综合练习
+  - note2--I/O
+    - io1--文件对象
+    - io2--什么是流
+    - io3--字节流
+      - [ASCII码 ](http://how2j.cn/p/2747)
+    - io4--关闭流的方式
+    - io5--字符流
+    - 
 
   
 
